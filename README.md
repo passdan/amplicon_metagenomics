@@ -32,12 +32,12 @@ __LEARNING OUTCOMES__
 - [X] [Introduction to the course and Instructors](Welcome.pptx):
     - [Daniel Antony Pass](https://www.compassbioinformatics.co.uk/about-us)  
     - [Anna Sandionigi](https://scholar.google.com/citations?hl=it&user=DLDuk_EAAAAJ)  
-    - [Bruno Fosso](https://scholar.google.com/citations?user=TBeT9pIAAAAJ&hl=it)  
+    - [Luigimaria Borruso](https://scholar.google.it/citations?user=ifNJPJEAAAAJ&hl=it)  
 - [X] Presentation - [**Brief introduction** about __Metagenomics__ concepts. *What are we going to learn?*](https://docs.google.com/presentation/d/1PuWRR79bvv95SmIo7fnfNiFkjl28xDr3/edit?usp=drive_link&ouid=112247165444752408285&rtpof=true&sd=true)
 - [X] Practical - [Connecting to the server via SSH](https://drive.google.com/drive/folders/197xymf3ZAncksVOew1CLLEp--G7MMIMc?usp=sharing)  
 - [X] Presentation - [Introduction to the **FASTQ** format and QIIME objects](https://docs.google.com/presentation/d/1RowyRGCLqAgt6Oxa_h3c33r4SI9reZlq6ZheRv-HAks/edit?usp=share_link)
 - [X] Practical - [First hands on data (& linux review)](main_data_dir/Session1_Fastq_linux.md)
-- [X] Presentation-  [**Experimental design part 1** ](https://docs.google.com/presentation/d/1BGdfq3lH9avWzLAmXq6RMiOr_F5GEy9i9gyphj6JaYk/edit?usp=sharing)
+- [X] Presentation-  [**Experimental design part 1** ](https://docs.google.com/presentation/d/1X-9Es3FmfddDbzkanMiRPvwEEoj2bPbG/edit?usp=drive_link&ouid=103395187960487769781&rtpof=true&sd=true)
 
 ## Day 2
 - [X] Practical - [Let's begin! Atacama Soil Experiment and Loading data in Qiime](16S_ITS_tutorial/readme.md) 
